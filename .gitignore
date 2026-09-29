@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+
+.github
+.vscode/
+docs/
+docs
